@@ -1,8 +1,8 @@
-/* apparently this property breaks entire theme for no reason */
-
 :root {
   --background-color: #000;
 }
+
+/* idk why this is here */
 
 .appMount-2yBXZl,
 body {
@@ -13,6 +13,13 @@ body {
 
 .bg-1QIAus {
   background-color: rgba(0, 0, 0, 0.5);
+}
+
+/* hide discord mark */
+
+.wordmark-2u86JB > svg {
+  /* filter: blur(5px); */
+  display: none;
 }
 
 /* transparent regions */
