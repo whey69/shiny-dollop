@@ -7,7 +7,7 @@
 
 /* slight transparency for background */
 .bg-1QIAus {
-background-color:rgba(0,0,0,0.5);
+background-color:rgba(0,0,0,0.5)!important;
 }
 
 /* transparent regions */
@@ -15,9 +15,9 @@ background-color:rgba(0,0,0,0.5);
 background:0 0!important;
 }
 
-/* slight blur for the side bar */
+/* slight blur for the side bar (removed) */
 .wrapper-1_HaEi {
-background:0;
+background:0!important;
 }
 
 /* background gradient */
