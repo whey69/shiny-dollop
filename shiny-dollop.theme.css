@@ -5,6 +5,11 @@
  * @version 0.0.1
  */
 
+.appMount-2yBXZl,
+body {
+background:#000;
+}
+
 /* slight transparency for background */
 .bg-1QIAus {
 background-color:rgba(0,0,0,0.5)!important;
