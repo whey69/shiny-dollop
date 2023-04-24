@@ -10,12 +10,6 @@
 background-color:rgba(0,0,0,0.5)
 }
 
-/* hide discord mark */
-.wordmark-2u86JB > svg {
-/* filter: blur(5px); */
-display:none
-}
-
 /* transparent regions */
 .app-2CXKsg,.applicationStore-2nk7Lo,.chat-2ZfjoI,.container-1NXEtd,.container-PNkimc,.contentRegion-3HkfJJ,.contentRegionScroller-2_GT_N,.notice-12Koq-,.nowPlayingColumn-1eCBCN,.pageWrapper-2PwDoS,.panels-3wFtMD,.scroller-2XLwLg,.wrapper-3HVHpV,.wrapper-15CKyy,.scroller-WSmht3,.scroller-2TZvBN,.scroller-1TOeMq,.scroller-3_YDR2,.sidebarRegionScroller-FXiQOh,.standardSidebarView-E9Pc3j,.wrapper-1Rf91z,.container-1oAagU,.wrapper-1gVUIN,.wrapper-KXM2i0 {
 background:0 0!important
